@@ -8,8 +8,8 @@ uploaded_file = st.file_uploader("Upload your cleaned_data.csv", type=["csv"])
 if uploaded_file is not None:
     try:
         data = pd.read_csv(uploaded_file, encoding='latin1')
-        data.columns = data.columns.str.strip()  
-        st.success("✅ Data Loaded Successfully")
+        data.columns = data.columns.str.strip()
+        st.success("Data Loaded Successfully")
         st.dataframe(data.head())
     except Exception as e:
         st.error(f"Error loading CSV: {e}")
