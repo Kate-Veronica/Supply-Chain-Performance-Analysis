@@ -1,5 +1,14 @@
 # Supply Chain Performance Analysis
 
+### DataSet:
+[ https://drive.google.com/file/d/1Q9jaN5fup2ieiLH4arzzLbduI2oljCXu/view?usp=drive_link ]
+
+### Live Dashboard:
+[ https://supply-chain-performance-analysis-aeskuqpkhtwa9fp5crzewm.streamlit.app/ ]
+
+### Report Paper:
+[ https://docs.google.com/document/d/1OfMF00uoMlAowwR9I4V2YFWHcZqpnn3R5cT-Fy-J030/edit?usp=drive_link ]
+
 ## Project Overview
 This project seeks to analyze the performance of customers, products, and the market in the operations of the supply chain with the aim of identifying profitability and areas of inefficiency. This is particularly aimed at finding areas where high sales do not necessarily mean high profitability.
 
